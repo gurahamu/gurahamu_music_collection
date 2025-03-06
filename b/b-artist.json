@@ -1,0 +1,150 @@
+{
+  "artist_name": "B'z",
+  "albums": [
+    {
+      "album_name": "Mixture",
+      "notes": "-",
+      "release_date": "2000",
+      "format": "CD"
+    },
+    {
+      "album_name": "SURVIVE",
+      "notes": "notes",
+      "release_date": "1997",
+      "format": "CD"
+    },
+        {
+      "album_name": "The Best ''Pleasure''",
+      "notes": "notes",
+      "release_date": "1998",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "B.B. King & Eric Clapton",
+  "albums": [
+    {
+      "album_name": "Riding With The King",
+      "notes": "notes",
+      "release_date": "2000",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "Dead Ringers",
+  "albums": [
+    {
+      "album_name": "Dead Ringers - Series 7",
+      "notes": "BBC Audio",
+      "release_date": "2002",
+      "format": "CD"
+    },
+    {
+      "album_name": "Dead Ringers - Series 8",
+      "notes": "BBC Audio",
+      "release_date": "2002",
+      "format": "CD"
+    },
+        {
+      "album_name": "Dead Ringers - TV Series 1",
+      "notes": "BBC Audio",
+      "release_date": "2003",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "Down the Line",
+  "albums": [
+    {
+      "album_name": "Down the Line - Series 2",
+      "notes": "BBC Audio",
+      "release_date": "2007",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "Down the Line",
+  "albums": [
+    {
+      "album_name": "Down the Line - Series 2",
+      "notes": "BBC Audio",
+      "release_date": "2007",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Hamish & Dougal",
+  "albums": [
+    {
+      "album_name": "Hamish & Dougal - You'll Have Had Your Tea - Series 2",
+      "notes": "BBC Audio",
+      "release_date": "2004",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "I'm Sorry I Haven't a Clue",
+  "albums": [
+    {
+      "album_name": "I'm Sorry I Haven't a Christmas Carol",
+      "notes": "BBC Audio",
+      "release_date": "2004",
+      "format": "CD"
+    },
+    {
+      "album_name": "I'm Sorry I Haven't a Clue - Series 6",
+      "notes": "BBC Audio",
+      "release_date": "2002",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "artist name",
+  "albums": [
+    {
+      "album_name": "album name",
+      "notes": "Bnotes",
+      "release_date": "date",
+      "format": "CD"
+    },
+    {
+      "album_name": "Another Album",
+      "notes": "notes",
+      "release_date": "date",
+      "format": "CD"
+    },
+        {
+      "album_name": "Another Album",
+      "notes": "notes",
+      "release_date": "date",
+      "format": "CD"
+    }
+  ]
+}

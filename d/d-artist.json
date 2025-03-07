@@ -1,0 +1,176 @@
+{
+  "David Arnold and Michael Price": {
+    "albums": [
+      {
+        "album_name": "Sherlock Series One",
+        "notes": "",
+        "release_date": "2012",
+        "format": "CD"
+      }
+    ]
+  },
+  "David Guetta": {
+    "albums": [
+      {
+        "album_name": "Listen",
+        "notes": "",
+        "release_date": "2014",
+        "format": "CD"
+      },
+      {
+        "album_name": "Nothing But The Beat 2.0",
+        "notes": "",
+        "release_date": "2012",
+        "format": "CD"
+      }
+    ]
+  },
+  "Def Leppard": {
+    "albums": [
+      {
+        "album_name": "Def Leppard",
+        "notes": "",
+        "release_date": "2015",
+        "format": "CD"
+      },
+      {
+        "album_name": "High 'n' Dry",
+        "notes": "",
+        "release_date": "1981",
+        "format": "CD"
+      },
+      {
+        "album_name": "Hysteria",
+        "notes": "",
+        "release_date": "1987",
+        "format": "CD"
+      },
+      {
+        "album_name": "On Through The Night",
+        "notes": "",
+        "release_date": "1980",
+        "format": "CD"
+      },
+      {
+        "album_name": "Pyromania",
+        "notes": "",
+        "release_date": "1983",
+        "format": "CD"
+      },
+      {
+        "album_name": "Retro Active",
+        "notes": "",
+        "release_date": "1993",
+        "format": "CD"
+      },
+      {
+        "album_name": "Slang",
+        "notes": "",
+        "release_date": "1996",
+        "format": "CD"
+      },
+      {
+        "album_name": "Vault. Greatest Hits 1980-1995",
+        "notes": "",
+        "release_date": "1995",
+        "format": "CD"
+      }
+    ]
+  },
+  "Denis Leary": {
+    "albums": [
+      {
+        "album_name": "No Cure For Cancer",
+        "notes": "",
+        "release_date": "1993",
+        "format": "CD"
+      }
+    ]
+  },
+  "Dido": {
+    "albums": [
+      {
+        "album_name": "No Angel",
+        "notes": "",
+        "release_date": "1999",
+        "format": "CD"
+      }
+    ]
+  },
+  "Douglas Adams": {
+    "albums": [
+      {
+        "album_name": "The Hitchhiker's Guide to the Galaxy",
+        "notes": "",
+        "release_date": "",
+        "format": "CD"
+      }
+    ]
+  },
+  "Dragon Ash": {
+    "albums": [
+      {
+        "album_name": "Life Goes On [CD Single]",
+        "notes": "",
+        "release_date": "2002",
+        "format": "CD"
+      },
+      {
+        "album_name": "Lily Of Da Valley",
+        "notes": "",
+        "release_date": "2001",
+        "format": "CD"
+      },
+      {
+        "album_name": "The Day Dragged On",
+        "notes": "",
+        "release_date": "1997",
+        "format": "CD"
+      }
+    ]
+  },
+  "Dream Theater": {
+    "albums": [
+      {
+        "album_name": "Awake",
+        "notes": "",
+        "release_date": "1994",
+        "format": "CD"
+      },
+      {
+        "album_name": "Falling Into Infinity",
+        "notes": "",
+        "release_date": "1997",
+        "format": "CD"
+      },
+      {
+        "album_name": "Images and Words",
+        "notes": "",
+        "release_date": "1992",
+        "format": "CD"
+      },
+      {
+        "album_name": "Metropolis Pt. 2- Scenes From A Memory",
+        "notes": "",
+        "release_date": "1999",
+        "format": "CD"
+      },
+      {
+        "album_name": "Train Of Thought",
+        "notes": "",
+        "release_date": "2003",
+        "format": "CD"
+      }
+    ]
+  },
+  "Duran Duran": {
+    "albums": [
+      {
+        "album_name": "Greatest",
+        "notes": "",
+        "release_date": "1998",
+        "format": "CD"
+      }
+    ]
+  }
+}

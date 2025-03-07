@@ -124,26 +124,290 @@
 }
 
 
-
 {
-  "artist_name": "artist name",
+  "artist_name": "Little Britain",
   "albums": [
     {
-      "album_name": "album name",
-      "notes": "Bnotes",
-      "release_date": "date",
+      "album_name": "Little Britain - Series 2",
+      "notes": "",
+      "release_date": "2002",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "Andy Hamilton",
+  "albums": [
+    {
+      "album_name": "Old Harry's Game -  Season 1",
+      "notes": "",
+      "release_date": "1995",
       "format": "CD"
     },
     {
-      "album_name": "Another Album",
-      "notes": "notes",
-      "release_date": "date",
+      "album_name": "Revolting People - Series 1",
+      "notes": "",
+      "release_date": "2000",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "Bad News",
+  "albums": [
+    {
+      "album_name": "Bad News",
+      "notes": "Cassette rip",
+      "release_date": "1987",
+      "format": "flac"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Bangles",
+  "albums": [
+    {
+      "album_name": "Greatest Hits",
+      "notes": "",
+      "release_date": "1990",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Barenaked Ladies",
+  "albums": [
+    {
+      "album_name": "Call and Answer",
+      "notes": "",
+      "release_date": "1998",
+      "format": "CD Single"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Bear McCreary",
+  "albums": [
+    {
+      "album_name": "Battlestar Galactica - Season 3 Original Soundtrack",
+      "notes": "",
+      "release_date": "2007",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Beastie Boys",
+  "albums": [
+    {
+      "album_name": "Paul's Boutique",
+      "notes": "",
+      "release_date": "1989",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Beck",
+  "albums": [
+    {
+      "album_name": "Odelay",
+      "notes": "",
+      "release_date": "1996",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Bill Hicks",
+  "albums": [
+    {
+      "album_name": "Arizona Bay",
+      "notes": "",
+      "release_date": "1997",
+      "format": "CD"
+    },
+    {
+      "album_name": "Rant in E-Minor",
+      "notes": "",
+      "release_date": "1997",
       "format": "CD"
     },
         {
-      "album_name": "Another Album",
-      "notes": "notes",
-      "release_date": "date",
+      "album_name": "Relentless",
+      "notes": "",
+      "release_date": "1992",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Billy Joel",
+  "albums": [
+    {
+      "album_name": "River Of Dreams",
+      "notes": "",
+      "release_date": "1993",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Black Flag",
+  "albums": [
+    {
+      "album_name": "Damaged",
+      "notes": "",
+      "release_date": "1981",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Blink 182",
+  "albums": [
+    {
+      "album_name": "Take Off Your Pants And Jacket",
+      "notes": "",
+      "release_date": "2001",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "Blur",
+  "albums": [
+    {
+      "album_name": "Blur",
+      "notes": "",
+      "release_date": "1997",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Bo Diddley",
+  "albums": [
+    {
+      "album_name": "Jungle Music",
+      "notes": "",
+      "release_date": "1993",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Bobby McFerrin",
+  "albums": [
+    {
+      "album_name": "Medicine Music",
+      "notes": "",
+      "release_date": "1990",
+      "format": "CD"
+    },
+    {
+      "album_name": "Simple Pleasuresm",
+      "notes": "",
+      "release_date": "1988",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "Bomb The Bass",
+  "albums": [
+    {
+      "album_name": "Beat Dis (The Very Best Of ...)",
+      "notes": "",
+      "release_date": "1999",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "Bon Jovi",
+  "albums": [
+    {
+      "album_name": "Crossroad - The Best Of",
+      "notes": "",
+      "release_date": "1994",
+      "format": "CD"
+    }
+  ]
+}
+
+
+
+{
+  "artist_name": "Broke For Free",
+  "albums": [
+    {
+      "album_name": "Petal",
+      "notes": "",
+      "release_date": "2014",
+      "format": "flac"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Bruce Dickinson",
+  "albums": [
+    {
+      "album_name": "Tattooed Millionaire",
+      "notes": "",
+      "release_date": "1990",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Bryan Adams",
+  "albums": [
+    {
+      "album_name": "MTV Unplugged",
+      "notes": "",
+      "release_date": "1997",
       "format": "CD"
     }
   ]

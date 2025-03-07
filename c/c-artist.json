@@ -1,0 +1,65 @@
+{
+  "artist_name": "CHAGE AND ASKA",
+  "albums": [
+    {
+      "album_name": "HEART",
+      "notes": "",
+      "release_date": "1996",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Chemical Brothers",
+  "albums": [
+    {
+      "album_name": "Setting Sun",
+      "notes": "",
+      "release_date": "1996",
+      "format": "CD Single"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Chris Poland",
+  "albums": [
+    {
+      "album_name": "Return to Metalopolis [Remaster]",
+      "notes": "",
+      "release_date": "2002",
+      "format": "CD"
+    }
+  ]
+}
+
+
+{
+  "artist_name": "Chumbawamba",
+  "albums": [
+    {
+      "album_name": "Tubthumper",
+      "notes": "",
+      "release_date": "1997",
+      "format": "CD"
+    }
+  ]
+}
+
+
+      
+{
+  "artist_name": "Cypress Hill",
+  "albums": [
+    {
+    "album_name": "Black Sunday",
+    "notes": "",
+    "release_date": "1993",
+    "format": "CD"
+    }
+  ]
+}
+  

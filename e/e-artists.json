@@ -1,0 +1,152 @@
+{
+  "East 17": {
+    "albums": [
+      {
+        "album_name": "Walthamstow",
+        "notes": "",
+        "release_date": "1992",
+        "format": "CD"
+      }
+    ]
+  },
+  "Ed Sheeran": {
+    "albums": [
+      {
+        "album_name": "X",
+        "notes": "",
+        "release_date": "2014",
+        "format": "CD"
+      },
+      {
+        "album_name": "÷",
+        "notes": "",
+        "release_date": "2017",
+        "format": "CD"
+      }
+    ]
+  },
+  "Elbow": {
+    "albums": [
+      {
+        "album_name": "The Seldom Seen Kid",
+        "notes": "",
+        "release_date": "2008",
+        "format": "CD"
+      }
+    ]
+  },
+  "Ella Fitzgerald": {
+    "albums": [
+      {
+        "album_name": "Pure Ella",
+        "notes": "",
+        "release_date": "1997",
+        "format": "CD"
+      }
+    ]
+  },
+  "Elmore James": {
+    "albums": [
+      {
+        "album_name": "The Story",
+        "notes": "",
+        "release_date": "1989",
+        "format": "CD"
+      }
+    ]
+  },
+  "Eminem": {
+    "albums": [
+      {
+        "album_name": "Encore",
+        "notes": "",
+        "release_date": "2004",
+        "format": "CD"
+      },
+      {
+        "album_name": "Recovery",
+        "notes": "",
+        "release_date": "2010",
+        "format": "CD"
+      },
+      {
+        "album_name": "The Slim Shady LP",
+        "notes": "",
+        "release_date": "1999",
+        "format": "CD"
+      }
+    ]
+  },
+  "En Vogue": {
+    "albums": [
+      {
+        "album_name": "Funky Divas",
+        "notes": "",
+        "release_date": "1993",
+        "format": "CD"
+      }
+    ]
+  },
+  "Epilogue": {
+    "albums": [
+      {
+        "album_name": "Hide",
+        "notes": "",
+        "release_date": "1994",
+        "format": "CD"
+      }
+    ]
+  },
+  "Erasure": {
+    "albums": [
+      {
+        "album_name": "The Innocents",
+        "notes": "",
+        "release_date": "2009",
+        "format": "CD"
+      }
+    ]
+  },
+  "Evanescence": {
+    "albums": [
+      {
+        "album_name": "Evanescence",
+        "notes": "",
+        "release_date": "2011",
+        "format": "CD"
+      },
+      {
+        "album_name": "Fallen",
+        "notes": "",
+        "release_date": "2003",
+        "format": "CD"
+      }
+    ]
+  },
+  "Everlast": {
+    "albums": [
+      {
+        "album_name": "Whitey Ford Sings the Blues",
+        "notes": "",
+        "release_date": "1998",
+        "format": "CD"
+      }
+    ]
+  },
+  "Extreme": {
+    "albums": [
+      {
+        "album_name": "III Sides To Every Story",
+        "notes": "",
+        "release_date": "1992",
+        "format": "CD"
+      },
+      {
+        "album_name": "Pornograffitti",
+        "notes": "",
+        "release_date": "1990",
+        "format": "CD"
+      }
+    ]
+  }
+}

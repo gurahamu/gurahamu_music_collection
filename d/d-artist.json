@@ -1,6 +1,6 @@
 {
-  "David Arnold and Michael Price": {
-    "albums": [
+  "artist_name": "David Arnold and Michael Price",
+  "albums": [
       {
         "album_name": "Sherlock Series One",
         "notes": "",
@@ -8,8 +8,11 @@
         "format": "CD"
       }
     ]
-  },
-  "David Guetta": {
+  }
+
+
+{  
+  "artist_name": "David Guetta",
     "albums": [
       {
         "album_name": "Listen",
@@ -24,8 +27,12 @@
         "format": "CD"
       }
     ]
-  },
-  "Def Leppard": {
+  }
+
+
+
+  {  
+  "artist_name": "Def Leppard",
     "albums": [
       {
         "album_name": "Def Leppard",
@@ -76,8 +83,11 @@
         "format": "CD"
       }
     ]
-  },
-  "Denis Leary": {
+  }
+
+
+{
+  "artist_name": "Denis Leary",
     "albums": [
       {
         "album_name": "No Cure For Cancer",
@@ -86,8 +96,11 @@
         "format": "CD"
       }
     ]
-  },
-  "Dido": {
+  }
+
+
+{
+  "artist_name":   "Dido",
     "albums": [
       {
         "album_name": "No Angel",
@@ -96,8 +109,10 @@
         "format": "CD"
       }
     ]
-  },
-  "Douglas Adams": {
+  }
+
+ { 
+  "artist_name": "Douglas Adams",
     "albums": [
       {
         "album_name": "The Hitchhiker's Guide to the Galaxy",
@@ -106,7 +121,9 @@
         "format": "CD"
       }
     ]
-  },
+  }
+
+
   "Dragon Ash": {
     "albums": [
       {

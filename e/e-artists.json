@@ -1,4 +1,36 @@
 {
+  "AC/DC": {
+    "albums": [
+      {
+        "album_name": "Back in Black",
+        "notes": "",
+        "release_date": "1980",
+        "format": "CD"
+      },
+      {
+        "album_name": "Highway to Hell",
+        "notes": "",
+        "release_date": "1979",
+        "format": "CD"
+      }
+    ]
+  },
+  "Adele": {
+    "albums": [
+      {
+        "album_name": "21",
+        "notes": "",
+        "release_date": "2011",
+        "format": "CD"
+      },
+      {
+        "album_name": "25",
+        "notes": "",
+        "release_date": "2015",
+        "format": "CD"
+      }
+    ]
+  },
   "East 17": {
     "albums": [
       {

@@ -1,26 +1,46 @@
-
-
-
 {
-  "artist_name": "artist name",
-  "albums": [
-    {
-      "album_name": "album name",
-      "notes": "notes",
-      "release_date": "date",
-      "format": "CD"
-    },
-    {
-      "album_name": "Another Album",
-      "notes": "notes",
-      "release_date": "date",
-      "format": "CD"
-    },
-        {
-      "album_name": "Another Album",
-      "notes": "notes",
-      "release_date": "date",
-      "format": "CD"
-    }
-  ]
+  "AC/DC": {
+    "albums": [
+      {
+        "album_name": "album name",
+        "notes": "notes",
+        "release_date": "date",
+        "format": "CD"
+      },
+      {
+        "album_name": "Another Album",
+        "notes": "notes",
+        "release_date": "date",
+        "format": "CD"
+      },
+      {
+        "album_name": "Another Album",
+        "notes": "notes",
+        "release_date": "date",
+        "format": "CD"
+      }
+    ]
+  },
+  "Adele": {
+    "albums": [
+      {
+        "album_name": "album name",
+        "notes": "notes",
+        "release_date": "date",
+        "format": "CD"
+      },
+      {
+        "album_name": "Another Album",
+        "notes": "notes",
+        "release_date": "date",
+        "format": "CD"
+      },
+      {
+        "album_name": "Another Album",
+        "notes": "notes",
+        "release_date": "date",
+        "format": "CD"
+      }
+    ]
+  }
 }

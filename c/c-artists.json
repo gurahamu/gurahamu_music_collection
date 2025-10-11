@@ -50,7 +50,6 @@
 }
 
 
-      
 {
   "artist_name": "Cypress Hill",
   "albums": [
@@ -62,4 +61,13 @@
     }
   ]
 }
-  
+
+
+{
+  "AC/DC": {
+    "albums": [...]
+  },
+  "Adele": {
+    "albums": [...]
+  }
+}
